@@ -2,7 +2,7 @@ Ultra. A proxy made by two middle schoolers lol
 
 We are from the not so proud school of Cedar Valley Middle School of rrisd
 
-Coded by Jamal jackson. Tweaked to perfection by Eld 
+Coded by Jamal jackson(now named skittle dont ask). Tweaked to perfection by Eld 
 
 links are deployed by anonymous and eld
 
@@ -20,3 +20,5 @@ if you want proof that we are the real jamal jackson and eld
 then ask us to write your full name, s number, a nickname, etc. (choose from one)
 
 Also let us know who the imposters are so we can bully them lol 
+
+(This site is getting a reboot)
