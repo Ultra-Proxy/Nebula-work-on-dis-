@@ -74,8 +74,7 @@ const THEME_OPTIONS = {
     "--navbar-font": '"Roboto"',
     "--navbar-logo-filter": "brightness(0%)",
     "--text-color-primary": "#000"
-  }
-};
+},
 rrhs: {
     "--background-primary": "#800020",
     "--navbar-color": "#26233a",
@@ -92,6 +91,8 @@ rrhs: {
     "--navbar-logo-filter": "invert(0%)",
     "--text-color-primary": "#e0def4"
   },
+  
+};  
 function changeCSS(property, value, isRoot = false) {
   const root = document.documentElement;
   isRoot
