@@ -1,6 +1,6 @@
 const THEME_OPTIONS = {
   dark: {
-    "--background-primary": "#191724",
+    "--background-primary": "#800020",
     "--navbar-color": "#26233a",
     "--navbar-height": "60px",
     "--navbar-text-color": "#7967dd",
