@@ -76,7 +76,22 @@ const THEME_OPTIONS = {
     "--text-color-primary": "#000"
   }
 };
-
+rrhs: {
+    "--background-primary": "#800020",
+    "--navbar-color": "#26233a",
+    "--navbar-height": "60px",
+    "--navbar-text-color": "#7967dd",
+    "--input-text-color": "#e0def4",
+    "--input-placeholder-color": "#6e6a86",
+    "--input-background-color": "#1f1d2e",
+    "--input-placeholder-color": "white",
+    "--input-border-color": "#eb6f92",
+    "--input-border-size": "1.3px",
+    "--navbar-link-color": "#e0def4",
+    "--navbar-font": '"Roboto"',
+    "--navbar-logo-filter": "invert(0%)",
+    "--text-color-primary": "#e0def4"
+  },
 function changeCSS(property, value, isRoot = false) {
   const root = document.documentElement;
   isRoot
