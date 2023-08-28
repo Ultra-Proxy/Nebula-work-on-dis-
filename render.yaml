@@ -1,8 +1,8 @@
 services:
   - type: web
-    name: Nebula
+    name: Ultra
     env: docker
-    repo: https://github.com/NebulaServices/Nebula.git
+    repo: https://github.com/Ultra-Proxy/Ultra
     region: oregon
     plan: free
     branch: main
