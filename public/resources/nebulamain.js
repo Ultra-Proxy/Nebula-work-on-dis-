@@ -82,7 +82,7 @@ window.addEventListener("load", () => {
     // Check if the service worker (commonly called SW) is registered
     if (typeof navigator.serviceWorker === "undefined")
       alert(
-        "An error has occured. Please contact Eld#9377"
+        "An error has occured. Please contact eld123"
       );
     //
     if (proxy === "uv" || proxy === "osana") {
@@ -108,7 +108,7 @@ window.addEventListener("load", () => {
               stealthEngine(redirectTo);
             } else {
               console.error(
-                "Stealth failed to load! Ask Eld#9377 for help."
+                "Stealth failed to load! Ask eld123 for help."
               );
             }
           } else {
@@ -291,7 +291,7 @@ function getRandomName() {
 function handleTabLeave() {
   var link = document.querySelector("link[rel~='icon']");
   if (localStorage.getItem("ADVcloak") == "on") {
-    if (document.title == "Nebula") {
+    if (document.title == "Ultra") {
       if (!link) {
         link = document.createElement("link");
         link.rel = "icon";
@@ -300,7 +300,7 @@ function handleTabLeave() {
       link.href = "https://www.google.com/favicon.ico";
       document.title = "Google";
     } else if (document.title == "Google") {
-      document.title = "Nebula";
+      document.title = "Ultra";
       if (!link) {
         link = document.createElement("link");
         link.rel = "icon";
