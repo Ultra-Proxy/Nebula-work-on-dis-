@@ -10,6 +10,11 @@ How did we make this you say? "Get better lol"
 
 Benjamin please stop begging us for links
 
+Credits:
+Eld- coder and deployer
+Jamal Jackson- Coder kid/error fixer
+(NO ONE ELSE)
+
 V2 coming out soon
 
 (This site is getting a reboot)
