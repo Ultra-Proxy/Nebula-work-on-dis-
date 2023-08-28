@@ -123,7 +123,7 @@ window.addEventListener("load", () => {
            function handleTabLeave(activeInfo) {
   var link = document.querySelector("link[rel~='icon']");
   if (localStorage.getItem('ADVcloak') == "on") {
-  if (document.title == "Nebula") {
+  if (document.title == "Ultra") {
     document.title = "Google"
     if (!link) {
     link = document.createElement('link');
@@ -133,7 +133,7 @@ window.addEventListener("load", () => {
 link.href = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo7AE3IF34XPGyseQjkXIOsWXpkZiLlMjSAwySjcJSPAwlv3hnGKi1&usqp=CAU';
     document.title = "Google"
   } else if (document.title == "Google") {
-    document.title = "Nebula"
+    document.title = "Ultra"
     if (!link) {
     link = document.createElement('link');
     link.rel = 'icon';
@@ -208,7 +208,7 @@ function log() {
   setTimeout(
     console.log.bind(
       console,
-      "%cWelcome To Nebula!",
+      "%cWelcome To Ultra!",
       "background: #3F51B5;color:#FFF;padding:5px;border-radius: 5px;line-height: 26px; font-size:24px;"
     )
   );
