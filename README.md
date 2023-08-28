@@ -1,26 +1,15 @@
-Ultra. A proxy made by two middle schoolers lol
+Ultra. A proxy made by two high schoolers with a mission to end internet cencorship. 
 
-We are from the not so proud school of Cedar Valley Middle School of rrisd
+We are freshmen in Round Rock high school.
 
-Coded by Jamal jackson(now named skittle dont ask). Tweaked to perfection by Eld 
+Coded by jamal jackson and Eld. 
 
-links are deployed by anonymous and eld. Not jamal cuz he brokie  
-
-this is paid by eld lol. jamal is a brokie dev (so pls give him money or food)
-
+Public links are deployed by Eld. Not jamal cuz he brokie  
 
 How did we make this you say? "Get better lol"
 
-dont beg for links
+Benjamin please stop begging us for links
 
-and uh please dont try to steal our credit 
-
-if you want proof that we are the real jamal jackson and eld
-
-then ask us to write your full name, s number, a nickname, etc. (choose from one)
-
-Also let us know who the imposters are so we can bully them lol 
-
-And for your information... yes we have logs for the proxy so uhhh dont do anything dumb lmao
+V2 coming out soon
 
 (This site is getting a reboot)
