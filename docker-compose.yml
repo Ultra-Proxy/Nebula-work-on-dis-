@@ -3,7 +3,7 @@ services:
   nebula:
     image: nebula:latest
     build: .
-    container_name: nebula
+    container_name: ultra
     restart: unless-stopped
     ports:
       # DO NOT CHANGE 3000!
